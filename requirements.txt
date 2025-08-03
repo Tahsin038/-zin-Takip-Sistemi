@@ -1,0 +1,12 @@
+# Bu proje sadece Python'un standart kütüphanelerini kullanır
+# Python 3.6+ gereklidir
+
+Flask==2.3.3
+Werkzeug==2.3.7
+gunicorn==21.2.0
+
+# Kullanılan modüller:
+# - tkinter (GUI için)
+# - json (veri saklama için)
+# - datetime (tarih işlemleri için)
+# - os (dosya işlemleri için)
