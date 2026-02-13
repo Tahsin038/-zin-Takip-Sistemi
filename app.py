@@ -46,7 +46,7 @@ INDEX_TEMPLATE = '''
 <body>
     <div class="container-fluid d-flex align-items-center justify-content-center min-vh-100">
         <div class="main-card p-5 text-center" style="max-width: 500px; width: 90%;">
-            <h1 class="mb-4">🔐 Günkent Sitesi İzin Takip Sistemi</h1>
+            <h1 class="mb-4">🔐İzin Takip Sistemi</h1>
             <p class="text-muted mb-4">Lütfen kullanıcı türünü seçin</p>
             <div class="d-grid gap-3">
                 <a href="/employee_login" class="btn btn-success btn-custom">👤 İşçi Girişi</a>
